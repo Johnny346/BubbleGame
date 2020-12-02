@@ -4,7 +4,8 @@
 
 ![Screenshot](game-img.PNG)
 
-This is a **🚧 WIP** match 3 game for a workshop with children on the [JavaLand4Kids](https://www.javaland.eu/de/javaland-2018/javaland4kids/).
+This is a match 3 game. 
+This is a small project for sudsjohnson.com, they are a a company that makes handmade soaps, located in Cork, Ireland.
+### Orignal game is a clone from (https://tobsef.github.io/Candy-Crush-Clone/)
 
-### Game is a clone from (https://tobsef.github.io/Candy-Crush-Clone/)
 # Project home page access here [https://sudsjohnson.com/bubblegame/](https://sudsjohnson.com/bubblegame/)
